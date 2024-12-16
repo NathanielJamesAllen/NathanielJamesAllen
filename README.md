@@ -1,9 +1,11 @@
 ### Hey there 👋
 
 I initally became interested in programming when by chance I took a computer science class as an elective during my senior year in highschool. Since then I have graduated college at Southern Virginia University, completed a couple internships, and have gained valuable professional experience as a Systems Engineer.
-I'm currently on the lookout for back-end developer positions, but I am also open to full-stack or front-end positions. I would love to work at a company that emphasize learning and has a great work culture. If you're hiring, let's talk!
 
 <!--
+I'm currently on the lookout for back-end developer positions, but I am also open to full-stack or front-end positions. I would love to work at a company that emphasize learning and has a great work culture. If you're hiring, let's talk!
+
+
 **NathanielJamesAllen/NathanielJamesAllen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
